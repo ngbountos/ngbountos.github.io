@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "N.I Bountos / Kapilio"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "N.I Bountos"
 description              : &description "Artificial Intelligence researcher"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ngbountos"
+  github           : "ngbountos"
   google_plus      :
   keybase          :
   instagram        :
