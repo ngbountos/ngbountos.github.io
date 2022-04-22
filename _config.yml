@@ -11,7 +11,7 @@ title                    : "N.I Bountos / Kapilio"
 title_separator          : "-"
 name                     : &name "N.I Bountos"
 description              : &description "Artificial Intelligence researcher"
-url                      : ngbountos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ngbountos.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ngbountos/ngbountos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "N.I Bountos"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Artificial intelligence researcher with a focus on applications with high social impact."
   location         : "Greece"
   employer         : "Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing, National Observatory of Athens"
