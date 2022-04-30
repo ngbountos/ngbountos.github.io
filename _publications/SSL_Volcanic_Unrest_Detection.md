@@ -2,7 +2,6 @@
 title: "Self-Supervised Contrastive Learning for Volcanic Unrest Detection"
 collection: publications
 permalink: /publication/SSL-Volcanic-Unrest-Detection
-excerpt: 'With this paper we propose to use self-supervised learning methods to learn quality InSAR data representations exploiting the abundance of freely available (unlabelled) data.'
 date: 19 August 2021
 venue: 'IEEE Geoscience and Remote Sensing Letters ( Volume: 19)'
 paperurl: 'https://arxiv.org/abs/2202.04030'
