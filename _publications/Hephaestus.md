@@ -2,7 +2,6 @@
 title: "Hephaestus: A large scale multitask dataset towards InSAR understanding"
 collection: publications
 permalink: /publication/Hephaestus-Dataset
-excerpt: 'This paper introduces Hephaestus, a large scale, multitask dataset towards InSAR understanding.'
 date: 2022
 venue: ' Computer Vision and Pattern Recognition (CVPR) 2022 Conference Workshop: EARTHVISION'
 paperurl: 'https://arxiv.org/abs/2204.09435'
