@@ -10,5 +10,3 @@ citation: 'Bountos, Nikolaos Ioannis, Dimitrios Michail, and Ioannis Papoutsis. 
 ---
 
 [Download paper here](https://arxiv.org/abs/2201.03016)
-
-Recommended citation: Bountos, Nikolaos Ioannis, Dimitrios Michail, and Ioannis Papoutsis. "Learning class prototypes from Synthetic InSAR with Vision Transformers." arXiv preprint arXiv:2201.03016 (2022).
