@@ -10,5 +10,3 @@ citation: 'Bountos, Nikolaos Ioannis, et al. "Hephaestus: A large scale multitas
 ---
 
 [Download paper here](https://arxiv.org/abs/2204.09435)
-
-Recommended citation: Bountos, Nikolaos Ioannis, et al. "Hephaestus: A large scale multitask dataset towards InSAR understanding." arXiv preprint arXiv:2204.09435 (2022).
