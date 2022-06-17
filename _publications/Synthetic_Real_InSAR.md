@@ -2,7 +2,7 @@
 title: "Learning class prototypes from Synthetic InSAR with Vision Transformers"
 collection: publications
 permalink: /publication/Synthetic_Real_InSAR_Adaptation
-date: 2022
+date: 08 June 2022
 venue: ''
 paperurl: 'https://arxiv.org/pdf/2201.03016.pdf'
 citation: 'Bountos, Nikolaos Ioannis, Dimitrios Michail, and Ioannis Papoutsis. "Learning class prototypes from Synthetic InSAR with Vision Transformers." arXiv preprint arXiv:2201.03016 (2022).'
