@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+The full cv can be found [here](https://ngbountos.github.io/files/cv.pdf).
 
-The full cv can be found [here](ngbountos.github.io/files/cv.pdf)
+{% include base_path %}
 
 Education
 ---------
