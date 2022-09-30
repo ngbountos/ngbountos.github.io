@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The full cv can be found [here](ngbountos.github.io/files/cv.pdf)
+
 Education
 ---------
 BSc, Computer Science from the Aristotle University of Thessaloniki
