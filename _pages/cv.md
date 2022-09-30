@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-===========
+---------
 BSc, Computer Science from the Aristotle University of Thessaloniki
 
 MSc, Data Engineering and Analytics from the Technical University of Munich
 
 Work Experience
-============
+---------
 Beyond Fellow, Visiting Researcher at the AI4EO Future Lab, TU Munich, September 2022 - December 2022
 
 AI Researcher/PhD Candidate at the National Observatory of Athens, January 2021 - Present
