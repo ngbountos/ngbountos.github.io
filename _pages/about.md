@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "News feed"
-excerpt: "News feed"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
