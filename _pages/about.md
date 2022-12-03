@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "News feed"
+title: "Home"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+#### News Feed
 - November 18, 2022: Our work [Benchmarking and scaling of deep learning models for land cover image classification]() has been accepted for publication in ISPRS Journal of Photogrammetry and Remote Sensing.
 - September 1, 2022: I join the [AI4EO Future Lab](https://ai4eo.de/) of the Technical University of Munich as a Beyond Fellow.
 - June 19, 2022: Our work [Hephaestus: A large scale multitask dataset towards InSAR understanding](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Bountos_Hephaestus_A_Large_Scale_Multitask_Dataset_Towards_InSAR_Understanding_CVPRW_2022_paper.pdf) has been published at the Computer Vision and Pattern Recognition (CVPR) workshop EarthVision.
