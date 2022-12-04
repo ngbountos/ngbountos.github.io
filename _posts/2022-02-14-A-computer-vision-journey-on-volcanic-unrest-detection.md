@@ -10,5 +10,3 @@ tags:
   - computer vision
   - natural hazards
 ---
-
-Original post published in [deep cube](https://deepcube-h2020.eu/computer-vision-journey-on-volcanic-unrest-detection/).
