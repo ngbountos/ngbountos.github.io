@@ -15,7 +15,7 @@ url                      : "https://ngbountos.github.io" # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ngbountos/ngbountos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "N.I Bountos"
   avatar           : "profile.png"
-  bio              : "Artificial intelligence researcher with a focus on applications with high social impact."
+  bio              : "Artificial intelligence researcher with a focus on applications with high social impact. Currently a member of the [Orion Lab](http://orionlab.space.noa.gr)"
   location         : "Greece"
-  employer         : "Orion Lab, National Observatory of Athens"
+  employer         : "National Observatory of Athens"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XFUe1WQAAAAJ&hl=el&oi=ao"
   email            :  "mpountos@outlook.com.gr"
