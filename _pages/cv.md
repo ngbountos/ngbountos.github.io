@@ -19,15 +19,15 @@ MSc, Data Engineering and Analytics from the Technical University of Munich
 
 Work Experience
 ---------
-Beyond Fellow, Visiting Researcher at the AI4EO Future Lab, TU Munich, September 2022 - December 2022
+Beyond Fellow, Visiting Researcher at the [AI4EO Future Lab, TU Munich](https://ai4eo.de/), September 2022 - December 2022
 
-AI Researcher/PhD Candidate at the National Observatory of Athens, January 2021 - Present
+AI Researcher/PhD Candidate at the [Orion Lab, National Observatory of Athens](http://orionlab.space.noa.gr), January 2021 - Present
 
-Artificial Intelligence Engineer at  Motius, December 2019 - April 2020
+Artificial Intelligence Engineer at  [Motius](https://motius.de/), December 2019 - April 2020
 
-Master Thesis on Computer Vision at Esri Deutschland, April 2019 - September 2019
+Master Thesis on Computer Vision at [Esri Deutschland](https://www.esri.com/en-us/home), April 2019 - September 2019
 
-Working Student Data Analytics at KPIT, July 2018 - February 2019
+Working Student Data Analytics at [KPIT](https://www.kpit.com/), July 2018 - February 2019
 
 Working Student Data Scientist at Trillr.com, October 2017 - January 2018
 
