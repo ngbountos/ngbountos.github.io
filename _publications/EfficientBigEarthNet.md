@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/benchmarking-lulc
 date: 27 Jan 2022
 venue: 'ISPRS Journal of Photogrammetry and Remote Sensing'
-paperurl: 'https://arxiv.org/abs/2111.09451'
-citation: 'Papoutsis, Ioannis, et al. "Benchmarking and scaling of deep learning models for land cover image classification.", ISPRS Journal of Photogrammetry and Remote Sensing,  arXiv preprint arXiv:2111.09451 (2021).'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0924271622003057'
+citation: Ioannis Papoutsis, Nikolaos Ioannis Bountos, Angelos Zavras, Dimitrios Michail, Christos Tryfonopoulos, Benchmarking and scaling of deep learning models for land cover image classification, ISPRS Journal of Photogrammetry and Remote Sensing, Volume 195, 2023, Pages 250-268, ISSN 0924-2716, https://doi.org/10.1016/j.isprsjprs.2022.11.012.
 ---
 
-[Download paper here](https://arxiv.org/abs/2111.09451)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0924271622003057)
