@@ -83,7 +83,7 @@ author:
   name             : "N.I Bountos"
   avatar           : "profile.png"
   bio              : "Artificial intelligence researcher with a focus on applications with high social impact. Currently a member of the Orion Lab of the Institute for Astronomy, Astrophysics, Space Applications, and Remote Sensing of the National Observatory of Athens."
-  location         : "Greece"
+  location         : #"Greece"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XFUe1WQAAAAJ&hl=el&oi=ao"
