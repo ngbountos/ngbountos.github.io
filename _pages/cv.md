@@ -15,7 +15,7 @@ Education
 ---------
 BSc in Computer Science from the [Aristotle University of Thessaloniki](https://www.csd.auth.gr/en/)
 
-MSc in Data Engineering and Analytics from the [echnical University of Munich](https://www.in.tum.de/en/in/cover-page/)
+MSc in Data Engineering and Analytics from the [Technical University of Munich](https://www.in.tum.de/en/in/cover-page/)
 
 Work Experience
 ---------
