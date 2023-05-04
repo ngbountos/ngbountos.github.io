@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### News Feed
-- May 4, 2023: Our project Pluto has been selected for the International Research Center on Artificial Intelligence under the auspices of UNESCO Global Top 100 list 2022-23.
+- May 4, 2023: Our project [Pluto](https://ircai.org/top100/entry/pluto/) has been selected for the International Research Center on Artificial Intelligence under the auspices of UNESCO Global Top 100 list 2022-23.
 - April 1, 2023:  I'll be joining [Mila - Quebec AI Institute](https://mila.quebec/en/) as a research intern for the next 6 months.
 - November 18, 2022: Our work [Benchmarking and scaling of deep learning models for land cover image classification](https://www.sciencedirect.com/science/article/pii/S0924271622003057) has been accepted for publication in ISPRS Journal of Photogrammetry and Remote Sensing.
 - September 1, 2022: I join the [AI4EO Future Lab](https://ai4eo.de/) of the Technical University of Munich as a Beyond Fellow.
