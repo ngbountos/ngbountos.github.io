@@ -19,6 +19,8 @@ MSc in Data Engineering and Analytics from the [Technical University of Munich](
 
 Work Experience
 ---------
+Research Intern, [Mila - Quebec AI Institute](https://mila.quebec/), April 2023 - Present
+
 Beyond Fellow, Visiting Researcher at the [AI4EO Future Lab, TU Munich](https://ai4eo.de/), September 2022 - December 2022
 
 AI Researcher/PhD Candidate at the [Orion Lab, National Observatory of Athens](http://orionlab.space.noa.gr), January 2021 - Present
