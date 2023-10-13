@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ### News Feed
+- October 3, 2023 We have received the "Best paper award" at the [ICCV 2023 AI + HADR workshop](https://www.hadr.ai/iccv23/accepted-papers-iccv23) for our work [TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting](https://arxiv.org/abs/2306.10940).
 - August 21, 2023 Our work [TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting](https://arxiv.org/abs/2306.10940) will be presented at the [ICCV 2023 AI + HADR workshop](https://www.hadr.ai/iccv23/accepted-papers-iccv23).  
 - July 16, 2023: [Orion Lab](http://orionlab.space.noa.gr) is holding a tutorial in [IGARSS 2023](https://2023.ieeeigarss.org/tutorials.php#tut109) focusing on [Deep Learning for monitoring and forecasting natural hazards with earth observation data](https://github.com/Orion-AI-Lab/igarss23_DL4NH).
 - July 1, 2023: I'll be acting as a Programme Committee for the [32nd International Conference on Artificial Neural Networks (ICANN)](https://e-nns.org/icann2023/).
