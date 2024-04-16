@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ### News Feed
-- We have been selected as one of the [Idea Track winners in EUSPA - EU Agency for the Space Programme Cassini Challenges](https://www.euspa.europa.eu/cassini-challenges-winners-2023#idea) with our idea [manteo](https://manteo.space).
 - March 27, 2024, Our paper [FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models](https://arxiv.org/abs/2312.10114) has been made available on arXiv.
+- March 16, We have been selected as one of the [Idea Track winners in EUSPA - EU Agency for the Space Programme Cassini Challenges](https://www.euspa.europa.eu/cassini-challenges-winners-2023#idea) with our idea [manteo](https://manteo.space).
 - November 18, 2023 Our paper [Kuro Siwo: A global multi-temporal SAR dataset for rapid flood mapping](https://arxiv.org/abs/2311.12056)  has been made available on arXiV.
 - October 3, 2023 We have received the "Best paper award" at the [ICCV 2023 AI + HADR workshop](https://www.hadr.ai/iccv23/accepted-papers-iccv23) for our work [TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting](https://arxiv.org/abs/2306.10940).
 - August 21, 2023 Our work [TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting](https://arxiv.org/abs/2306.10940) will be presented at the [ICCV 2023 AI + HADR workshop](https://www.hadr.ai/iccv23/accepted-papers-iccv23).  
