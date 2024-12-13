@@ -1,11 +1,11 @@
 ---
-title: "FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models"
+title: "FoMo: multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring"
 collection: publications
 permalink: /publication/FoMo-Bench
-date: March 2023
-venue: 'arXiv'
+date: December 2024
+venue: 'AAAI 2025, Artificial Intelligence for Social Impact Track'
 paperurl: https://arxiv.org/abs/2312.10114
-citation: 'Bountos, Nikolaos Ioannis, Arthur Ouaknine, and David Rolnick. "FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models." arXiv preprint arXiv:2312.10114 (2023).'
+citation: 'Nikolaos Ioannis Bountos, Arthur Ouaknine, Ioannis Papoutsis, David Rolnick. "FoMo: multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring." arXiv preprint arXiv:2312.10114 (2023).'
 ---
 
 [Download paper here](https://arxiv.org/abs/2312.10114)
