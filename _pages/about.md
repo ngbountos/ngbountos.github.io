@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 ### News Feed
-- February 18, 2024, I'll be a member of the scientific Commitee for [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/).
-- December 9, 2024, Our paper [FoMo: multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring]([https://arxiv.org/abs/2311.12056](https://arxiv.org/abs/2312.10114)) has been accepted to AAAI 2025, Artificial Intelligence for Social Impact Track.
+- July 25, 2025, Our paper [On the Generalization of Representation Uncertainty in Earth Observation](https://arxiv.org/abs/2503.07082) has beeen accepted to ICCV 2025.
+- February 18, 2025, I'll be a member of the scientific Commitee for [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/).
+- December 9, 2025, Our paper [FoMo: multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring]([https://arxiv.org/abs/2311.12056](https://arxiv.org/abs/2312.10114)) has been accepted to AAAI 2025, Artificial Intelligence for Social Impact Track.
 - September 26, 2024, Our paper [Kuro Siwo: 33 billion $m^2$ under the water. A global multi-temporal satellite dataset for rapid flood mapping](https://arxiv.org/abs/2311.12056) has been accepted to NeurIPS 2024, Datasets and Benchmarks Track.
 - March 27, 2024, Our paper [FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models](https://arxiv.org/abs/2312.10114) has been made available on arXiv.
 - March 16, 2024 We have been selected as one of the [Idea Track winners in EUSPA - EU Agency for the Space Programme Cassini Challenges](https://www.euspa.europa.eu/cassini-challenges-winners-2023#idea) with our idea [manteo](https://manteo.space).
