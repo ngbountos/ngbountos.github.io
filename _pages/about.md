@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+### About
+I’m a researcher at Orion Lab, a joint research group of the National Observatory of Athens and the National Technical University of Athens. My work focuses on deep learning for Earth Observation, with a particular emphasis on foundation models for Earth Observation. I am completing my PhD under the supervision of Ioannis Papoutsis, with an expected graduation in September 2025.
+
 ### News Feed
 - July 25, 2025, Our paper [On the Generalization of Representation Uncertainty in Earth Observation](https://arxiv.org/abs/2503.07082) has beeen accepted to ICCV 2025.
 - February 18, 2025, I'll be a member of the scientific Committee for [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/).
