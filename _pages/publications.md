@@ -4,13 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- [**Kondylatos Spyros\***, **Nikolaos Ioannis Bountos\***, Michail Dimitrios, Zhu Xiao Xiang, Camps-Valls Gustau, Papoutsis Ioannis. *"On the Generalization of Representation Uncertainty in Earth Observation."* Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025.](https://arxiv.org/abs/2503.07082)
+- [**Nikolaos Ioannis Bountos\***, **Maria Sdraka\***, Angelos Zavras, Ilektra Karasante, Andreas Karavias, Themistocles Herekakis, Angeliki Thanasou, Dimitrios Michail, Ioannis Papoutsis. *"Kuro Siwo: 33 billion $m^2$ under the water. A global multi-temporal satellite dataset for rapid flood mapping."* Advances in Neural Information Processing Systems 37 (2025): 38105-38121.](https://arxiv.org/pdf/2311.12056.pdf)
+- [**Nikolaos Ioannis Bountos**, Arthur Ouaknine, Ioannis Papoutsis, and David Rolnick. *"Fomo: Multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring."* Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 27. 2025.](https://arxiv.org/pdf/2312.10114.pdf)
+- [Wang, Yi, Zhitong Xiong, Chenying Liu, Adam J. Stewart, Thomas Dujardin, **Nikolaos Ioannis Bountos**, Angelos Zavras, Franziska Gerken, Ioannis Papoutsis, Laura Leal-Taix'e and Xiao Xiang Zhu. *“Towards a Unified Copernicus Foundation Model for Earth Vision.”* Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025.](https://arxiv.org/abs/2503.11849)
+- [Spyros Kondylatos, **Nikolaos Ioannis Bountos**, Ioannis Prapas, Angelos Zavras, Gustau Camps-Valls, Ioannis Papoutsis. *"Probabilistic Machine Learning for Noisy Labels in Earth Observation."* arXiv preprint arXiv:2504.03478 (2025).](https://arxiv.org/abs/2504.03478)
+- [Papadopoulos, Nikolas, **Nikolaos Ioannis Bountos**, Maria Sdraka, Andreas Karavias and Ioannis Papoutsis. *“Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring.”* (2025).](https://arxiv.org/abs/2505.17782)
+- [Michail, D., Davalas, C., Panagiotou, L. I., Prapas, I., Kondylatos, S., **Bountos, N. I.**, & Papoutsis, I. (2025). *FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction.* arXiv preprint arXiv:2502.01550.](https://arxiv.org/abs/2502.01550?)
+- [Michail, D., Panagiotou, L. I., Davalas, C., Prapas, I., Kondylatos, S., **Bountos, N. I.**, & Papoutsis, I. (2024). *Seasonal fire prediction using spatio-temporal deep neural networks.* arXiv preprint arXiv:2404.06437.](https://arxiv.org/abs/2404.06437)
+- [Papoutsis, Ioannis, **Bountos Nikolaos Ioannis**, Zavras Angelos, Michail Dimitrios, Tryfonopoulos Christos. *"Benchmarking and scaling of deep learning models for land cover image classification."* ISPRS Journal of Photogrammetry and Remote Sensing 195 (2023): 250-268.](https://www.sciencedirect.com/science/article/pii/S0924271622003057)
+- [Prapas, Ioannis, **Nikolaos Ioannis Bountos**, Spyros Kondylatos, Dimitrios Michail, Gustau Camps-Valls and Ioannis Papoutsis. *"Televit: Teleconnection-driven transformers improve subseasonal to seasonal wildfire forecasting."* Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops. 2023.](https://arxiv.org/pdf/2306.10940.pdf)
+- [**Nikolaos Ioannis Bountos**, Dimitrios Michail, and Ioannis Papoutsis. *"Learning from Synthetic InSAR with Vision Transformers: The case of volcanic unrest detection."* IEEE Transactions on Geoscience and Remote Sensing (2022).](https://ieeexplore.ieee.org/document/9791383)
+- [**Bountos, Nikolaos Ioannis**, Papoutsis, I., Michail, D., Karavias, A., Elias, P., & Parcharidis, I. (2022). *"Hephaestus: A large scale multitask dataset towards InSAR understanding."* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. 2022.](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Bountos_Hephaestus_A_Large_Scale_Multitask_Dataset_Towards_InSAR_Understanding_CVPRW_2022_paper.pdf)
+- [**Nikolaos Ioannis Bountos**, Ioannis Papoutsis, Dimitrios Michail, Nantheera Anantrasirichai. *"Self-supervised contrastive learning for volcanic unrest detection."* IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5.](https://ieeexplore.ieee.org/abstract/document/9517282)
