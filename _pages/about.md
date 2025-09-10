@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About
-I’m a researcher at Orion Lab, a joint research group of the National Observatory of Athens and the National Technical University of Athens. My work focuses on deep learning for Earth Observation, with a particular emphasis on foundation models for Earth Observation. I am completing my PhD under the supervision of Ioannis Papoutsis, with an expected graduation in September 2025.
+I’m a researcher at Orion Lab, a joint research group of the National Observatory of Athens and the National Technical University of Athens. My work focuses on deep learning for Earth Observation, with a particular emphasis on foundation models. I am completing my PhD under the supervision of Ioannis Papoutsis, with an expected graduation in September 2025.
 
 ### News Feed
 - September 10, 2025, Our paper [Probabilistic Machine Learning for Noisy Labels in Earth Observation](https://arxiv.org/abs/2504.03478) has been accepted for publication to Nature, Scientific Reports.
