@@ -12,6 +12,7 @@ redirect_from:
 I’m a researcher at Orion Lab, a joint research group of the National Observatory of Athens and the National Technical University of Athens. My work focuses on deep learning for Earth Observation, with a particular emphasis on foundation models. I am completing my PhD under the supervision of Ioannis Papoutsis, with an expected graduation in September 2025.
 
 ### News Feed
+- October 19, 2025, Our paper [Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849) was selected as a Best Paper Award Finalist in ICCV 2025.
 - September 10, 2025, Our paper [Probabilistic Machine Learning for Noisy Labels in Earth Observation](https://arxiv.org/abs/2504.03478) has been accepted for publication to Nature, Scientific Reports.
 - July 25, 2025, Two papers accepted to ICCV 2025. [On the Generalization of Representation Uncertainty in Earth Observation](https://arxiv.org/abs/2503.07082), joint work with Spyros Kondylatos and [Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849) (oral) led by Yi Wang.
 - February 18, 2025, I'll be a member of the scientific Committee for [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/).
