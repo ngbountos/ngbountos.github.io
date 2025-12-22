@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-I am an AI researcher working on deep learning for Earth Observation. I hold a Master’s degree (MSc) from the Technical University of Munich in  Data Engineering and Analytics, and a Bachelor's degree (BSc) in Computer Science from the Aristotle University of Thessaloniki. Since December 2020, I have been pursuing a PhD within Orion Lab, a research group jointly affiliated with the National Observatory of Athens and the National Technical University of Athens, focusing on Deep Learning for Earth observation.
+I am an AI researcher working on deep learning for Earth Observation. I hold a PhD in Computer Science, completed jointly between the Orion Lab of the National Technical University of Athens and Harokopio University of Athens. Additionally I hold a Master of Science from the Technical University of Munich in Data Engineering and Analytics, and a Bachelor of Science in Computer Science from the Aristotle University of Thessaloniki. 
 
 I have authored publications in top-tier machine learning conferences such as NeurIPS, ICCV, and AAAI, as well as leading Earth Observation journals including IEEE Transactions on Geoscience and Remote Sensing and IEEE Geoscience and Remote Sensing Letters. 
 
