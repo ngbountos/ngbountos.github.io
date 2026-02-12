@@ -12,6 +12,7 @@ redirect_from:
 I’m a researcher at Orion Lab, a joint research group of the National Observatory of Athens and the National Technical University of Athens. My work focuses on deep learning for Earth Observation, with a particular emphasis on foundation models. 
 
 ### News Feed
+- Februrary 11, 2026, Our project [Triton](https://ircai.org/top100/entry/triton-global-flood-monitoring-system/), was selected in [the Global Top 100 AI projects list for 2025 of the International Research Center on Artificial Intelligence under the auspices of UNESCO](https://ircai.org/top100/entry/triton-global-flood-monitoring-system).
 - December 12, 2025, I succefully defended my PhD thesis on "Multimodal self-supervised learning for Earth observation".
 - October 19, 2025, Our paper [Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849) was selected as a Best Paper Award Finalist in ICCV 2025.
 - September 10, 2025, Our paper [Probabilistic Machine Learning for Noisy Labels in Earth Observation](https://arxiv.org/abs/2504.03478) has been accepted for publication to Nature, Scientific Reports.
