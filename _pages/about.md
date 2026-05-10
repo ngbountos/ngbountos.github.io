@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About
-I’m a researcher at Orion Lab, a joint research group of the National Observatory of Athens and the National Technical University of Athens. My work focuses on deep learning for Earth Observation, with a particular emphasis on foundation models. 
+I’m a researcher at the Φ-Lab of the European Space Agency. My work focuses on deep learning for Earth Observation, with a particular emphasis on foundation models. 
 
 ### News Feed
 - Februrary 11, 2026, Our project [Triton](https://ircai.org/top100/entry/triton-global-flood-monitoring-system/), was selected in [the Global Top 100 AI projects list for 2025 of the International Research Center on Artificial Intelligence under the auspices of UNESCO](https://ircai.org/top100/entry/triton-global-flood-monitoring-system).
