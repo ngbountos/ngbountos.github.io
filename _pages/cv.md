@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-I am an AI researcher working on deep learning for Earth Observation. I hold a PhD in Computer Science, completed jointly between the Orion Lab of the National Technical University of Athens and Harokopio University of Athens. Additionally I hold a Master of Science from the Technical University of Munich in Data Engineering and Analytics, and a Bachelor of Science in Computer Science from the Aristotle University of Thessaloniki. 
+I am an AI researcher working on deep learning for Earth Observation. I'm a Research Fellow at the Φ-Lab of the European Space Agency. I hold a PhD in Computer Science, completed jointly between the Orion Lab of the National Technical University of Athens and Harokopio University of Athens. Additionally I hold a Master of Science from the Technical University of Munich in Data Engineering and Analytics, and a Bachelor of Science in Computer Science from the Aristotle University of Thessaloniki. 
 
 I have authored publications in top-tier machine learning conferences such as NeurIPS, ICCV, and AAAI, as well as leading Earth Observation journals including IEEE Transactions on Geoscience and Remote Sensing and IEEE Geoscience and Remote Sensing Letters. 
 
