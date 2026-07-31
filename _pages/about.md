@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 ### About
-I am a Research Fellow at the [Φ-Lab of the European Space Agency](https://philab.esa.int/) working on AI for Earth Observation. My research focuses on multimodal representation learning for Earth Observation, with an emphasis on foundation models. Before moving to ESA, I completed my PhD on multimodal self-supervised learning for Earth observation in [Orion Lab, Athens](orionailab.github.io) supervised by [Ioannis Papoutsis](https://orionlab.space.noa.gr/author/ioannis-papoutsis/) and [Dimitrios Michail](https://d-michail.github.io/).
+Research Fellow at the [Φ-Lab of the European Space Agency](https://philab.esa.int/) working on AI for Earth Observation. My research focuses on multimodal representation learning for Earth Observation, with an emphasis on foundation models. Before moving to ESA, I completed my PhD on multimodal self-supervised learning for Earth observation in [Orion Lab, Athens](orionailab.github.io) supervised by [Ioannis Papoutsis](https://orionlab.space.noa.gr/author/ioannis-papoutsis/) and [Dimitrios Michail](https://d-michail.github.io/).
 
 My work has been published at top ML conferences including ICCV, NeurIPS, and AAAI, and twice selected among UNESCO IRCAI's Global Top 100 AI projects. You can find a full overview in my [Resume](https://ngbountos.github.io/files/cv.pdf) and [Publications](https://scholar.google.com/citations?user=XFUe1WQAAAAJ&hl=en).
 
 ### News Feed
+- July 31, 2026. Co-organizing the [2nd Workshop on Advances in Representation Learning for Earth Observation](https://reo-workshop.org/2026/) in NeuriIPS 2026, in Paris.
 - June 29, 2026. I presented our work "From coordinates to context" at the [UN World Food Programme](https://www.wfp.org/) workshop "Turning Models into Action: Advances in Modelling for Food Security and Humanitarian Response"
 - Februrary 11, 2026, Our project [Triton](https://ircai.org/top100/entry/triton-global-flood-monitoring-system/), was selected in [the Global Top 100 AI projects list for 2025 of the International Research Center on Artificial Intelligence under the auspices of UNESCO](https://ircai.org/top100/entry/triton-global-flood-monitoring-system).
 - December 12, 2025, I succefully defended my PhD thesis on "Multimodal self-supervised learning for Earth observation".
