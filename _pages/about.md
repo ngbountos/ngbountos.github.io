@@ -15,7 +15,7 @@ My work has been published at top ML conferences including ICCV, NeurIPS, and AA
 
 ### News Feed
 - August 19, 2026. Our paper [Bridging the weather and climate divide with artificial intelligence](https://www.nature.com/articles/s41467-026-75787-y) has been accepted for publication to Nature Communications.
-- July 31, 2026. Co-organizing the [2nd Workshop on Advances in Representation Learning for Earth Observation](https://reo-workshop.org/2026/) at NeuriIPS 2026, Paris.
+- July 31, 2026. Co-organizing the [2nd Workshop on Advances in Representation Learning for Earth Observation](https://reo-workshop.org/2026/) at NeurIPS 2026, Paris.
 - June 29, 2026. I presented our work "From coordinates to context" at the [UN World Food Programme](https://www.wfp.org/) workshop "Turning Models into Action: Advances in Modelling for Food Security and Humanitarian Response"
 - Februrary 11, 2026, Our project [Triton](https://ircai.org/top100/entry/triton-global-flood-monitoring-system/), was selected in [the Global Top 100 AI projects list for 2025 of the International Research Center on Artificial Intelligence under the auspices of UNESCO](https://ircai.org/top100/entry/triton-global-flood-monitoring-system).
 - December 12, 2025, I succefully defended my PhD thesis on "Multimodal self-supervised learning for Earth observation".
