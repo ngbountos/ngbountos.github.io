@@ -9,34 +9,63 @@ redirect_from:
 ---
 
 ### About
+{: .section-heading}
+
 Research Fellow at the [Φ-Lab of the European Space Agency](https://philab.esa.int/) working on AI for Earth Observation. My research focuses on multimodal representation learning for Earth Observation, with an emphasis on foundation models. Before moving to ESA, I completed my PhD on multimodal self-supervised learning for Earth observation in [Orion Lab, Athens](orionailab.github.io) supervised by [Ioannis Papoutsis](https://orionlab.space.noa.gr/author/ioannis-papoutsis/) and [Dimitrios Michail](https://d-michail.github.io/).
+{: .lede}
 
 My work has been published at top ML conferences including ICCV, NeurIPS, and AAAI, and twice selected among UNESCO IRCAI's Global Top 100 AI projects. You can find a full overview in my [Resume](https://ngbountos.github.io/files/cv.pdf) and [Publications](https://scholar.google.com/citations?user=XFUe1WQAAAAJ&hl=en).
 
 ### News Feed
-- August 19, 2026. Our paper [Bridging the weather and climate divide with artificial intelligence](https://www.nature.com/articles/s41467-026-75787-y) has been accepted for publication to Nature Communications.
-- July 31, 2026. Co-organizing the [2nd Workshop on Advances in Representation Learning for Earth Observation](https://reo-workshop.org/2026/) at NeurIPS 2026, Paris.
-- June 29, 2026. I presented our work "From coordinates to context" at the [UN World Food Programme](https://www.wfp.org/) workshop "Turning Models into Action: Advances in Modelling for Food Security and Humanitarian Response"
-- Februrary 11, 2026, Our project [Triton](https://ircai.org/top100/entry/triton-global-flood-monitoring-system/), was selected in [the Global Top 100 AI projects list for 2025 of the International Research Center on Artificial Intelligence under the auspices of UNESCO](https://ircai.org/top100/entry/triton-global-flood-monitoring-system).
-- December 12, 2025, I succefully defended my PhD thesis on "Multimodal self-supervised learning for Earth observation".
-- October 19, 2025, Our paper [Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849) was selected as a Best Paper Award Finalist in ICCV 2025.
-- September 10, 2025, Our paper [Probabilistic Machine Learning for Noisy Labels in Earth Observation](https://arxiv.org/abs/2504.03478) has been accepted for publication to Nature, Scientific Reports.
-- July 25, 2025, Two papers accepted to ICCV 2025. [On the Generalization of Representation Uncertainty in Earth Observation](https://arxiv.org/abs/2503.07082), joint work with Spyros Kondylatos and [Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849) (oral) led by Yi Wang.
-- February 18, 2025, I'll be a member of the scientific Committee for [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/).
-- December 9, 2025, Our paper [FoMo: multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring]([https://arxiv.org/abs/2311.12056](https://arxiv.org/abs/2312.10114)) has been accepted to AAAI 2025, Artificial Intelligence for Social Impact Track.
-- September 26, 2024, Our paper [Kuro Siwo: 33 billion $m^2$ under the water. A global multi-temporal satellite dataset for rapid flood mapping](https://arxiv.org/abs/2311.12056) has been accepted to NeurIPS 2024, Datasets and Benchmarks Track.
-- March 27, 2024, Our paper [FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models](https://arxiv.org/abs/2312.10114) has been made available on arXiv.
-- March 16, 2024 We have been selected as one of the [Idea Track winners in EUSPA - EU Agency for the Space Programme Cassini Challenges](https://www.euspa.europa.eu/cassini-challenges-winners-2023#idea) with our idea [manteo](https://manteo.space).
-- November 18, 2023 Our paper [Kuro Siwo: A global multi-temporal SAR dataset for rapid flood mapping](https://arxiv.org/abs/2311.12056)  has been made available on arXiV.
-- October 3, 2023 We have received the "Best paper award" at the [ICCV 2023 AI + HADR workshop](https://www.hadr.ai/iccv23/accepted-papers-iccv23) for our work [TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting](https://arxiv.org/abs/2306.10940).
-- August 21, 2023 Our work [TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting](https://arxiv.org/abs/2306.10940) will be presented at the [ICCV 2023 AI + HADR workshop](https://www.hadr.ai/iccv23/accepted-papers-iccv23).  
-- July 16, 2023: [Orion Lab](http://orionlab.space.noa.gr) is holding a tutorial in [IGARSS 2023](https://2023.ieeeigarss.org/tutorials.php#tut109) focusing on [Deep Learning for monitoring and forecasting natural hazards with earth observation data](https://github.com/Orion-AI-Lab/igarss23_DL4NH).
-- July 1, 2023: I'll be acting as a Programme Committee for the [32nd International Conference on Artificial Neural Networks (ICANN)](https://e-nns.org/icann2023/).
-- May 4, 2023: Our project [Pluto](https://ircai.org/top100/entry/pluto/) has been selected for the International Research Center on Artificial Intelligence under the auspices of UNESCO Global Top 100 list 2022-23.
-- April 1, 2023:  I'll be joining [Mila - Quebec AI Institute](https://mila.quebec/en/) as a research intern for the next 8 months.
-- November 18, 2022: Our work [Benchmarking and scaling of deep learning models for land cover image classification](https://www.sciencedirect.com/science/article/pii/S0924271622003057) has been accepted for publication in ISPRS Journal of Photogrammetry and Remote Sensing.
-- September 1, 2022: I join the [AI4EO Future Lab](https://ai4eo.de/) of the Technical University of Munich as a Beyond Fellow.
-- June 19, 2022: Our work [Hephaestus: A large scale multitask dataset towards InSAR understanding](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Bountos_Hephaestus_A_Large_Scale_Multitask_Dataset_Towards_InSAR_Understanding_CVPRW_2022_paper.pdf) has been published at the Computer Vision and Pattern Recognition (CVPR) workshop EarthVision.
-- June 8, 2022: Our paper [Learning From Synthetic InSAR With Vision Transformers: The Case of Volcanic Unrest Detection](https://ieeexplore.ieee.org/document/9791383) has been published in IEEE journal Transactions on Geoscience and Remote Sensing.
-- August 19, 2021: Our paper [Self-Supervised Contrastive Learning for Volcanic Unrest Detection](https://ieeexplore.ieee.org/document/9517282) has been published in IEEE journal Geoscience and Remote Sensing Letters.
-- January 1, 2021: I join the [Orion Lab](http://orionlab.space.noa.gr) of the National Observatory of Athens as a PhD candidate.
+{: .section-heading}
+
+<div class="news-timeline">
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">August 19, 2026</span>
+Our paper [Bridging the weather and climate divide with artificial intelligence](https://www.nature.com/articles/s41467-026-75787-y) has been accepted for publication to Nature Communications.
+</div>
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">July 31, 2026</span>
+Co-organizing the [2nd Workshop on Advances in Representation Learning for Earth Observation](https://reo-workshop.org/2026/) at NeurIPS 2026, Paris.
+</div>
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">June 29, 2026</span>
+I presented our work "From coordinates to context" at the [UN World Food Programme](https://www.wfp.org/) workshop "Turning Models into Action: Advances in Modelling for Food Security and Humanitarian Response"
+</div>
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">February 11, 2026</span>
+Our project [Triton](https://ircai.org/top100/entry/triton-global-flood-monitoring-system/), was selected in [the Global Top 100 AI projects list for 2025 of the International Research Center on Artificial Intelligence under the auspices of UNESCO](https://ircai.org/top100/entry/triton-global-flood-monitoring-system).
+</div>
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">December 12, 2025</span>
+I successfully defended my PhD thesis on "Multimodal self-supervised learning for Earth observation".
+</div>
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">October 19, 2025</span>
+Our paper [Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849) was selected as a Best Paper Award Finalist in ICCV 2025.
+</div>
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">September 10, 2025</span>
+Our paper [Probabilistic Machine Learning for Noisy Labels in Earth Observation](https://arxiv.org/abs/2504.03478) has been accepted for publication to Nature, Scientific Reports.
+</div>
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">July 25, 2025</span>
+Two papers accepted to ICCV 2025. [On the Generalization of Representation Uncertainty in Earth Observation](https://arxiv.org/abs/2503.07082), joint work with Spyros Kondylatos and [Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849) (oral) led by Yi Wang.
+</div>
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">February 18, 2025</span>
+I'll be a member of the scientific Committee for [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/).
+</div>
+
+</div>
+
+<p><a class="btn" href="/news/">Full news archive →</a></p>

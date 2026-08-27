@@ -1,0 +1,53 @@
+/* ==========================================================================
+   HOME / ABOUT PAGE
+   ========================================================================== */
+
+.lede {
+  font-family: $sans-serif;
+  font-size: $type-size-4;
+  font-weight: 300;
+  line-height: 1.6;
+  color: $text-color;
+}
+
+.section-heading {
+  display: inline-block;
+  padding-bottom: 0.3em;
+  border-bottom: 3px solid $accent-color;
+}
+
+.news-timeline {
+  position: relative;
+  margin: 1em 0 1.5em;
+  padding-left: 1.5em;
+  border-left: 2px solid $border-color;
+}
+
+.news-entry {
+  position: relative;
+  margin-bottom: 1.4em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0.3em;
+    left: calc(-1.5em - 5px);
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: $accent-color;
+  }
+}
+
+.news-entry__date {
+  display: block;
+  margin-bottom: 0.15em;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: 700;
+  color: $accent-color;
+}

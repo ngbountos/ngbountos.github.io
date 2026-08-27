@@ -1,0 +1,195 @@
+- title: "Bridging the weather and climate divide with artificial intelligence"
+  authors: "G. Camps-Valls, A. Carrassi, Francisco de Melo Viríssimo, Kevin Debeire, M. Fernández-Torres, P. Hess, Helge Heuer, Nathan Mankovich, David Montero, Esther Rodrigo-Bonet, F. Serva, Vasileios Sitokonstantinou, Alistair White, Kai-Hendrik Cohrs, J. Wider, Christian Reimers, **Nikolaos Ioannis Bountos**, Ioannis Papoutsis, Pierre Gentine, V. Eyring"
+  venue: "Nature Communications"
+  type: journal
+  year: "2026"
+  url: "https://www.nature.com/articles/s41467-026-75787-y"
+  pdf: "https://www.nature.com/articles/s41467-026-75787-y.pdf"
+  bibtex_type: article
+  bibtex_key: campsvalls2026bridging
+  bibtex_authors: "Camps-Valls, G. and Carrassi, A. and de Melo Vir\\'issimo, Francisco and Debeire, Kevin and Fern\\'andez-Torres, M. and Hess, P. and Heuer, Helge and Mankovich, Nathan and Montero, David and Rodrigo-Bonet, Esther and Serva, F. and Sitokonstantinou, Vasileios and White, Alistair and Cohrs, Kai-Hendrik and Wider, J. and Reimers, Christian and Bountos, Nikolaos Ioannis and Papoutsis, Ioannis and Gentine, Pierre and Eyring, V."
+  bibtex_journal: "Nature Communications"
+  bibtex_doi: "10.1038/s41467-026-75787-y"
+
+- title: "TeleViT1.0: teleconnection-informed vision transformers for subseasonal to seasonal wildfire pattern forecasts"
+  authors: "Ioannis Prapas, N. Papadopoulos, **Nikolaos Ioannis Bountos**, Dimitrios Michail, G. Camps-Valls, Ioannis Papoutsis"
+  venue: "Machine Learning: Earth"
+  type: journal
+  year: "2026"
+  url: "https://iopscience.iop.org/article/10.1088/3049-4753/ae7088"
+  pdf: "https://iopscience.iop.org/article/10.1088/3049-4753/ae7088/pdf"
+  code: "https://github.com/Orion-AI-Lab/televit1.0"
+  bibtex_type: article
+  bibtex_key: prapas2026televit
+  bibtex_authors: "Prapas, Ioannis and Papadopoulos, N. and Bountos, Nikolaos Ioannis and Michail, Dimitrios and Camps-Valls, G. and Papoutsis, Ioannis"
+  bibtex_journal: "Machine Learning: Earth"
+  bibtex_doi: "10.1088/3049-4753/ae7088"
+
+- title: "On the Generalization of Representation Uncertainty in Earth Observation"
+  authors: "**Kondylatos Spyros\\***, **Nikolaos Ioannis Bountos\\***, Michail Dimitrios, Zhu Xiao Xiang, Camps-Valls Gustau, Papoutsis Ioannis"
+  venue: "ICCV"
+  type: conference
+  year: "2025"
+  url: "https://arxiv.org/abs/2503.07082"
+  pdf: "https://arxiv.org/pdf/2503.07082"
+  code: "https://github.com/Orion-AI-Lab/EOUncertaintyGeneralization"
+  bibtex_type: inproceedings
+  bibtex_key: kondylatos2025generalization
+  bibtex_authors: "Kondylatos, Spyros and Bountos, Nikolaos Ioannis and Michail, Dimitrios and Zhu, Xiao Xiang and Camps-Valls, Gustau and Papoutsis, Ioannis"
+  bibtex_booktitle: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
+
+- title: "Kuro Siwo: 33 billion m² under the water. A global multi-temporal satellite dataset for rapid flood mapping"
+  authors: "**Nikolaos Ioannis Bountos\\***, **Maria Sdraka\\***, Angelos Zavras, Ilektra Karasante, Andreas Karavias, Themistocles Herekakis, Angeliki Thanasou, Dimitrios Michail, Ioannis Papoutsis"
+  venue: "NeurIPS"
+  type: conference
+  year: "2025"
+  url: "https://arxiv.org/abs/2311.12056"
+  pdf: "https://arxiv.org/pdf/2311.12056.pdf"
+  code: "https://github.com/Orion-AI-Lab/KuroSiwo"
+  bibtex_type: inproceedings
+  bibtex_key: bountos2024kurosiwo
+  bibtex_authors: "Bountos, Nikolaos Ioannis and Sdraka, Maria and Zavras, Angelos and Karasante, Ilektra and Karavias, Andreas and Herekakis, Themistocles and Thanasou, Angeliki and Michail, Dimitrios and Papoutsis, Ioannis"
+  bibtex_booktitle: "Advances in Neural Information Processing Systems (NeurIPS)"
+
+- title: "FoMo: Multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring"
+  authors: "**Nikolaos Ioannis Bountos**, Arthur Ouaknine, Ioannis Papoutsis, David Rolnick"
+  venue: "AAAI"
+  type: conference
+  year: "2025"
+  url: "https://arxiv.org/abs/2312.10114"
+  pdf: "https://arxiv.org/pdf/2312.10114.pdf"
+  code: "https://github.com/RolnickLab/FoMo-Bench"
+  bibtex_type: inproceedings
+  bibtex_key: bountos2025fomo
+  bibtex_authors: "Bountos, Nikolaos Ioannis and Ouaknine, Arthur and Papoutsis, Ioannis and Rolnick, David"
+  bibtex_booktitle: "Proceedings of the AAAI Conference on Artificial Intelligence"
+
+- title: "Towards a Unified Copernicus Foundation Model for Earth Vision"
+  authors: "Wang Yi, Xiong Zhitong, Liu Chenying, Stewart Adam J., Dujardin Thomas, **Nikolaos Ioannis Bountos**, Zavras Angelos, Gerken Franziska, Papoutsis Ioannis, Leal-Taixé Laura, Zhu Xiao Xiang"
+  venue: "ICCV"
+  type: conference
+  year: "2025"
+  url: "https://arxiv.org/abs/2503.11849"
+  pdf: "https://arxiv.org/pdf/2503.11849"
+  code: "https://github.com/zhu-xlab/Copernicus-FM"
+  bibtex_type: inproceedings
+  bibtex_key: wang2025copernicus
+  bibtex_authors: "Wang, Yi and Xiong, Zhitong and Liu, Chenying and Stewart, Adam J. and Dujardin, Thomas and Bountos, Nikolaos Ioannis and Zavras, Angelos and Gerken, Franziska and Papoutsis, Ioannis and Leal-Taix\\'e, Laura and Zhu, Xiao Xiang"
+  bibtex_booktitle: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
+
+- title: "Probabilistic machine learning for noisy labels in Earth observation"
+  authors: "Spyros Kondylatos, **Nikolaos Ioannis Bountos**, Ioannis Prapas, Angelos Zavras, Gustau Camps-Valls, Ioannis Papoutsis"
+  venue: "Scientific Reports"
+  type: journal
+  year: "2025"
+  url: "https://www.nature.com/articles/s41598-025-19781-2"
+  pdf: "https://www.nature.com/articles/s41598-025-19781-2.pdf"
+  bibtex_type: article
+  bibtex_key: kondylatos2025probabilistic
+  bibtex_authors: "Kondylatos, Spyros and Bountos, Nikolaos Ioannis and Prapas, Ioannis and Zavras, Angelos and Camps-Valls, Gustau and Papoutsis, Ioannis"
+  bibtex_journal: "Scientific Reports"
+  bibtex_doi: "10.1038/s41598-025-19781-2"
+
+- title: "Thalia: A Global, Multi-Modal Dataset for Volcanic Activity Monitoring"
+  authors: "Nikolas Papadopoulos, **Nikolaos Ioannis Bountos**, Maria Sdraka, Andreas Karavias, Gustau Camps-Valls, Ioannis Papoutsis"
+  venue: "arXiv preprint"
+  type: preprint
+  year: "2025"
+  url: "https://arxiv.org/abs/2505.17782"
+  pdf: "https://arxiv.org/pdf/2505.17782"
+  code: "https://github.com/Orion-AI-Lab/Hephaestus-minicubes"
+  bibtex_type: misc
+  bibtex_key: papadopoulos2025thalia
+  bibtex_authors: "Papadopoulos, Nikolas and Bountos, Nikolaos Ioannis and Sdraka, Maria and Karavias, Andreas and Camps-Valls, Gustau and Papoutsis, Ioannis"
+  bibtex_eprint: "2505.17782"
+
+- title: "FireCastNet: earth-as-a-graph for seasonal fire prediction"
+  authors: "Dimitrios Michail, Charalampos Davalas, Lefki-Ioanna Panagiotou, Ioannis Prapas, Spyros Kondylatos, **Nikolaos Ioannis Bountos**, Ioannis Papoutsis"
+  venue: "Scientific Reports"
+  type: journal
+  year: "2025"
+  url: "https://www.nature.com/articles/s41598-025-30645-7"
+  pdf: "https://www.nature.com/articles/s41598-025-30645-7.pdf"
+  code: "https://github.com/seasfire/firecastnet"
+  bibtex_type: article
+  bibtex_key: michail2025firecastnet
+  bibtex_authors: "Michail, Dimitrios and Davalas, Charalampos and Panagiotou, Lefki-Ioanna and Prapas, Ioannis and Kondylatos, Spyros and Bountos, Nikolaos Ioannis and Papoutsis, Ioannis"
+  bibtex_journal: "Scientific Reports"
+  bibtex_doi: "10.1038/s41598-025-30645-7"
+
+- title: "Seasonal fire prediction using spatio-temporal deep neural networks"
+  authors: "Dimitrios Michail, Lefki-Ioanna Panagiotou, Charalampos Davalas, Ioannis Prapas, Spyros Kondylatos, **Nikolaos Ioannis Bountos**, Ioannis Papoutsis"
+  venue: "arXiv preprint"
+  type: preprint
+  year: "2024"
+  url: "https://arxiv.org/abs/2404.06437"
+  pdf: "https://arxiv.org/pdf/2404.06437"
+  bibtex_type: misc
+  bibtex_key: michail2024seasonal
+  bibtex_authors: "Michail, Dimitrios and Panagiotou, Lefki-Ioanna and Davalas, Charalampos and Prapas, Ioannis and Kondylatos, Spyros and Bountos, Nikolaos Ioannis and Papoutsis, Ioannis"
+  bibtex_eprint: "2404.06437"
+
+- title: "Benchmarking and scaling of deep learning models for land cover image classification"
+  authors: "Papoutsis Ioannis, **Bountos Nikolaos Ioannis**, Zavras Angelos, Michail Dimitrios, Tryfonopoulos Christos"
+  venue: "ISPRS Journal of Photogrammetry and Remote Sensing"
+  type: journal
+  year: "2023"
+  url: "https://www.sciencedirect.com/science/article/pii/S0924271622003057"
+  pdf: "https://arxiv.org/pdf/2111.09451"
+  code: "https://github.com/Orion-AI-Lab/EfficientBigEarthNet"
+  bibtex_type: article
+  bibtex_key: papoutsis2023benchmarking
+  bibtex_authors: "Papoutsis, Ioannis and Bountos, Nikolaos Ioannis and Zavras, Angelos and Michail, Dimitrios and Tryfonopoulos, Christos"
+  bibtex_journal: "ISPRS Journal of Photogrammetry and Remote Sensing"
+  bibtex_doi: "10.1016/j.isprsjprs.2022.11.012"
+
+- title: "TeleViT: Teleconnection-driven transformers improve subseasonal to seasonal wildfire forecasting"
+  authors: "Prapas Ioannis, **Nikolaos Ioannis Bountos**, Spyros Kondylatos, Dimitrios Michail, Gustau Camps-Valls, Ioannis Papoutsis"
+  venue: "ICCV Workshop (AI+HADR)"
+  type: workshop
+  year: "2023"
+  url: "https://arxiv.org/abs/2306.10940"
+  pdf: "https://arxiv.org/pdf/2306.10940.pdf"
+  code: "https://github.com/Orion-AI-Lab/televit"
+  bibtex_type: inproceedings
+  bibtex_key: prapas2023televit
+  bibtex_authors: "Prapas, Ioannis and Bountos, Nikolaos Ioannis and Kondylatos, Spyros and Michail, Dimitrios and Camps-Valls, Gustau and Papoutsis, Ioannis"
+  bibtex_booktitle: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops"
+
+- title: "Learning from Synthetic InSAR with Vision Transformers: The case of volcanic unrest detection"
+  authors: "**Nikolaos Ioannis Bountos**, Dimitrios Michail, Ioannis Papoutsis"
+  venue: "IEEE Transactions on Geoscience and Remote Sensing"
+  type: journal
+  year: "2022"
+  url: "https://ieeexplore.ieee.org/document/9791383"
+  pdf: "https://arxiv.org/pdf/2201.03016"
+  code: "https://github.com/Orion-AI-Lab/PrototypeInSAR"
+  bibtex_type: article
+  bibtex_key: bountos2022learning
+  bibtex_authors: "Bountos, Nikolaos Ioannis and Michail, Dimitrios and Papoutsis, Ioannis"
+  bibtex_journal: "IEEE Transactions on Geoscience and Remote Sensing"
+
+- title: "Hephaestus: A large scale multitask dataset towards InSAR understanding"
+  authors: "**Bountos Nikolaos Ioannis**, Papoutsis I., Michail D., Karavias A., Elias P., Parcharidis I."
+  venue: "CVPR Workshop (EarthVision)"
+  type: workshop
+  year: "2022"
+  url: "https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Bountos_Hephaestus_A_Large_Scale_Multitask_Dataset_Towards_InSAR_Understanding_CVPRW_2022_paper.pdf"
+  pdf: "https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Bountos_Hephaestus_A_Large_Scale_Multitask_Dataset_Towards_InSAR_Understanding_CVPRW_2022_paper.pdf"
+  code: "https://github.com/Orion-AI-Lab/Hephaestus"
+  bibtex_type: inproceedings
+  bibtex_key: bountos2022hephaestus
+  bibtex_authors: "Bountos, Nikolaos Ioannis and Papoutsis, Ioannis and Michail, Dimitrios and Karavias, Andreas and Elias, Panagiotis and Parcharidis, Isaak"
+  bibtex_booktitle: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+
+- title: "Self-supervised contrastive learning for volcanic unrest detection"
+  authors: "**Nikolaos Ioannis Bountos**, Ioannis Papoutsis, Dimitrios Michail, Nantheera Anantrasirichai"
+  venue: "IEEE Geoscience and Remote Sensing Letters"
+  type: journal
+  year: "2021"
+  url: "https://ieeexplore.ieee.org/abstract/document/9517282"
+  pdf: "https://arxiv.org/pdf/2202.04030"
+  bibtex_type: article
+  bibtex_key: bountos2021selfsupervised
+  bibtex_authors: "Bountos, Nikolaos Ioannis and Papoutsis, Ioannis and Michail, Dimitrios and Anantrasirichai, Nantheera"
+  bibtex_journal: "IEEE Geoscience and Remote Sensing Letters"

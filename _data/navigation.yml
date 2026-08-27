@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
+    url: /talks/
+
+  - title: "News"
+    url: /news/
+
   - title: "Resume"
     url: /resume/

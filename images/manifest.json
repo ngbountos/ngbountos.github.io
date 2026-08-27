@@ -1,5 +1,9 @@
 {
-	"name": "Minimal Mistakes",
+	"name": "N.I Bountos",
+	"short_name": "N. Bountos",
+	"theme_color": "#0e5a6b",
+	"background_color": "#ffffff",
+	"display": "browser",
 	"icons": [
 		{
 			"src": "\/images\/android-chrome-36x36.png?v=M44lzPylqQ",

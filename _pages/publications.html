@@ -1,0 +1,37 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign year_groups = site.data.publications | group_by: "year" | sort: "name" | reverse %}
+
+{% for group in year_groups %}
+  <h3>{{ group.name }}</h3>
+  <div class="pub-grid">
+    {% for pub in group.items %}
+      <article class="pub-card pub-card--{{ pub.type }}">
+        {% if pub.venue and pub.venue != "" %}
+          <span class="pub-card__venue pub-card__venue--{{ pub.type }}">{{ pub.venue }}</span>
+        {% endif %}
+        <h4 class="pub-card__title"><a href="{{ pub.url }}">{{ pub.title }}</a></h4>
+        <p class="pub-card__authors">{{ pub.authors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        <div class="pub-card__actions">
+          {% if pub.pdf and pub.pdf != "" %}
+            <a class="pub-card__btn" href="{{ pub.pdf }}" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-file-pdf" aria-hidden="true"></i> PDF
+            </a>
+          {% endif %}
+          {% if pub.code and pub.code != "" %}
+            <a class="pub-card__btn" href="{{ pub.code }}" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-github" aria-hidden="true"></i> Code
+            </a>
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+{% endfor %}

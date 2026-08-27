@@ -69,6 +69,11 @@
    Author profile and links
    ========================================================================== */
 
+.author-card {
+  padding-top: 0.8em;
+  border-top: 3px solid $accent-color;
+}
+
 .author__avatar {
   display: table-cell;
   vertical-align: top;
