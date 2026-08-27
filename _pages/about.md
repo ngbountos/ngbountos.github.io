@@ -15,6 +15,7 @@ Research Fellow at the [Φ-Lab of the European Space Agency](https://philab.esa.
 {: .lede}
 
 My work has been published at top ML conferences including ICCV, NeurIPS, and AAAI, and twice selected among UNESCO IRCAI's Global Top 100 AI projects. You can find a full overview in my [Resume](https://ngbountos.github.io/files/cv.pdf) and [Publications](https://scholar.google.com/citations?user=XFUe1WQAAAAJ&hl=en).
+{: .lede}
 
 ### News Feed
 {: .section-heading}

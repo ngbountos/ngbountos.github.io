@@ -2,4 +2,4 @@ _site/
 vendor/
 .bundle/
 .DS_Store
-
+.claude/
