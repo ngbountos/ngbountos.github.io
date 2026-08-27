@@ -41,11 +41,6 @@ I successfully defended my PhD thesis on "Multimodal self-supervised learning fo
 </div>
 
 <div class="news-entry" markdown="1">
-<span class="news-entry__date">December 9, 2025</span>
-Our paper [FoMo: multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring](https://arxiv.org/abs/2312.10114) has been accepted to AAAI 2025, Artificial Intelligence for Social Impact Track.
-</div>
-
-<div class="news-entry" markdown="1">
 <span class="news-entry__date">October 19, 2025</span>
 Our paper [Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849) was selected as a Best Paper Award Finalist in ICCV 2025.
 </div>
@@ -70,6 +65,11 @@ I'll be a member of the scientific Committee for [ESA-NASA International Worksho
 ### 2024
 
 <div class="news-timeline">
+
+<div class="news-entry" markdown="1">
+<span class="news-entry__date">December 9, 2024</span>
+Our paper [FoMo: multi-modal, multi-scale and multi-task remote sensing foundation models for forest monitoring](https://arxiv.org/abs/2312.10114) has been accepted to AAAI 2025, Artificial Intelligence for Social Impact Track.
+</div>
 
 <div class="news-entry" markdown="1">
 <span class="news-entry__date">September 26, 2024</span>
