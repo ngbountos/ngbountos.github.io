@@ -20,6 +20,7 @@ redirect_from:
   <span class="resume-block__date">Dec 2025</span>
   <h4 class="resume-block__title">PhD in Computer Science</h4>
   <p class="resume-block__org">Orion Lab, National Technical University of Athens &amp; National Observatory of Athens</p>
+  <p class="resume-block__meta">Degree awarded by Harokopio University of Athens</p>
   <p class="resume-block__desc">Thesis: <em>Multimodal Self-Supervised Learning for Earth Observation</em></p>
 </div>
 

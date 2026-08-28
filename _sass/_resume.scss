@@ -87,6 +87,13 @@
   color: $accent-color;
 }
 
+.resume-block__meta {
+  margin: 0 0 0.3em;
+  font-size: $type-size-7;
+  font-style: italic;
+  color: $light-gray;
+}
+
 .resume-block__desc {
   margin: 0;
   font-size: $type-size-6;
