@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "N.I Bountos"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Research Fellow at the European Space Agency working on foundation models for Earth Observation."
-  location         : #"Greece"
+  location         : "Rome, Italy"
   employer         : "European Space Agency" 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XFUe1WQAAAAJ&hl=el&oi=ao"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/nikolaos-ioannis-bountos-67119812a/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "NikosGiannisB"
+  twitter          :
   vine             :
   weibo            :
   xing             :

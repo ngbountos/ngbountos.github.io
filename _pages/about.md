@@ -11,7 +11,7 @@ redirect_from:
 ### About
 {: .section-heading}
 
-Research Fellow at the [Φ-Lab of the European Space Agency](https://philab.esa.int/) working on AI for Earth Observation. My research focuses on multimodal representation learning for Earth Observation, with an emphasis on foundation models. Before moving to ESA, I completed my PhD on multimodal self-supervised learning for Earth observation in [Orion Lab, Athens](orionailab.github.io) supervised by [Ioannis Papoutsis](https://orionlab.space.noa.gr/author/ioannis-papoutsis/) and [Dimitrios Michail](https://d-michail.github.io/).
+Research Fellow at the [Φ-Lab of the European Space Agency](https://philab.esa.int/) working on AI for Earth Observation. My research focuses on multimodal representation learning for Earth Observation, with an emphasis on foundation models. Before moving to ESA, I completed my PhD on multimodal self-supervised learning for Earth observation in [Orion Lab, Athens](https://orionlab.space.noa.gr/) supervised by [Ioannis Papoutsis](https://orionlab.space.noa.gr/author/ioannis-papoutsis/) and [Dimitrios Michail](https://d-michail.github.io/).
 {: .lede}
 
 My work has been published at top ML conferences including ICCV, NeurIPS, and AAAI, and twice selected among UNESCO IRCAI's Global Top 100 AI projects. You can find a full overview in my [Resume](https://ngbountos.github.io/files/cv.pdf) and [Publications](https://scholar.google.com/citations?user=XFUe1WQAAAAJ&hl=en).
