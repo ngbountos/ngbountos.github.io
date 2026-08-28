@@ -40,32 +40,28 @@
 }
 
 #theme-toggle {
-  position: absolute;
-  top: 50%;
-  right: 2.5em;
-  transform: translateY(-50%);
-  z-index: 30;
+  position: fixed;
+  bottom: 1.5em;
+  right: 1.5em;
+  z-index: 100;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.25em;
-  height: 2.25em;
+  width: 2.75em;
+  height: 2.75em;
   padding: 0;
   color: $masthead-link-color;
   background: $background-color;
   border: 1px solid $border-color;
   border-radius: 50%;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
   cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
   transition: $global-transition;
 
   &:hover {
     color: $accent-color;
     border-color: $accent-color;
-  }
-
-  @include breakpoint(max-width $small) {
-    display: none;
   }
 }
 
